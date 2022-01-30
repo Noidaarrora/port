@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'port.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'portfolios',
-        'USER':'portfolios',
-        'PASSWORD':'AdminAdmin44',
-        'HOST':'db4free.net',
+        'NAME': '',
+        'USER':'',
+        'PASSWORD':'',
+        'HOST':'',
         'PORT':3306
     }
 }
